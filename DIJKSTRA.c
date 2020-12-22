@@ -65,7 +65,7 @@ void create(int k,int neighbour,int weight){
 
                           /*HEAP IMPLEMENTATION BEGINS*/
 struct vertex{
-	int id;
+	int i;
 	int value;
 }arr[size];
 
